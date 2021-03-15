@@ -56,7 +56,7 @@ Após clonar o projeto, execute os seguintes comandos dentro da pasta do mesmo:
 
 
 ## Pontos que podem ser melhorados no projeto
-[ ] -CSS da página de About  
-[ ] -Adicionar mais filtros (Raça, Status, Planeta de Origems, ...)  
-[ ] -Melhorar o filtro(Atualmente é case sensitive)  
-[ ] -Clean Code, melhorar nome de funções/constantes e variaveis.  
+- [ ] CSS da página de About  
+- [ ] Adicionar mais filtros (Raça, Status, Planeta de Origems, ...)  
+- [ ] Melhorar o filtro(Atualmente é case sensitive)  
+- [ ] Clean Code, melhorar nome de funções/constantes e variaveis.  
